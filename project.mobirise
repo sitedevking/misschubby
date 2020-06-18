@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "miss chubby",
-    "currentPage": "index.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,7 @@
     "gdpr": false
   },
   "pages": {
-    "index.html": {
+    "Home.html": {
       "settings": {
         "main": true,
         "title": "Home",
