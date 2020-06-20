@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "miss chubby",
-    "currentPage": "Home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -65,14 +65,15 @@
     "gdpr": false
   },
   "pages": {
-    "Home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
         "meta_descr": "MIss Chubby 2020 is a self uplifting pageantry curated only  for plus sized women to celebrate your Beauty  just the way you are.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-20200616-wa0016-992x992.jpeg"
       },
       "components": [
         {
