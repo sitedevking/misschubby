@@ -68,7 +68,8 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "witsec-mailform": false
+    "witsec-mailform": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
